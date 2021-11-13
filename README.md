@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jothebanner
 - 👀 I’m interested in like everything.
 - 🌱 I’m currently learning game development.
-- 📫 How to reach me by sending a message through a pull request.
+- 📫 Reach me by sending a message through a pull request.
 
 <!---
 Jothebanner/Jothebanner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
