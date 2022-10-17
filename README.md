@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jothebanner
 - 👀 I’m interested in full stack development.
 - 🌱 I’m currently learning: everything?
-- 📫 Reach me by sending a message through a pull request, an email at hawks.jacob.g@gmail.com.
+- 📫 Reach me by sending an email at hawks.jacob.g@gmail.com.
 
 <!---
 Jothebanner/Jothebanner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
