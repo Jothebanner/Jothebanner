@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jothebanner
 - 👀 I’m interested in full stack development.
-- 🌱 I’m currently learning game development.
+- 🌱 I’m currently learning: everything?
 - 📫 Reach me by sending a message through a pull request, an email at hawks.jacob.g@gmail.com.
 
 <!---
