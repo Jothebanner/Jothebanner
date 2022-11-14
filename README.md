@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jothebanner
 - 👀 I’m interested in full stack development.
-- 🌱 I’m currently learning: everything?
+- 🌱 I’m currently learning: Angular and Svelte
 - 📫 Reach me by sending an email at hawks.jacob.g@gmail.com.
 
 <!---
