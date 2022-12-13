@@ -2,6 +2,7 @@
 - 👀 I’m interested in systems and frameworks.
 - 🌱 I’m currently learning: Angular and Svelte.
 - 📫 Shoot me an email at hawks.jacob.g@gmail.com.
+- Check out my codepen at https://codepen.io/Jothebanner
 
 <!---
 Jothebanner/Jothebanner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
