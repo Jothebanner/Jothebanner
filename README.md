@@ -1,3 +1,5 @@
+Check out my online portfolio at https://jothebanner.dev!
+
 - 👋 Hi, I’m @Jothebanner
 - 👀 I’m interested in systems and frameworks.
 - 🌱 I’m currently learning: Angular and Svelte.
